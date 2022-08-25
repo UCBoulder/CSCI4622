@@ -2,5 +2,5 @@
 
 Hosting assignments and labs
 
-- HW: assignments
-- Labs: hands-ons
+- HW/#: assignments
+- Labs/#: hands-ons
